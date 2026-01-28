@@ -2,8 +2,7 @@
   "routes": [
     {
       "route": "/",
-      "redirect": "/home",
-      "statusCode": 302
+      "rewrite": "/index.html"
     }
   ],
   "navigationFallback": {
