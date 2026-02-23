@@ -3,6 +3,10 @@
     {
       "route": "/",
       "rewrite": "/index.html"
+    },
+    {
+      "route": "/Maidfinder",
+      "rewrite": "/Maidfinder.html"
     }
   ],
   "navigationFallback": {
@@ -14,12 +18,4 @@
       "/assets/*"
     ]
   }
-  
-  "routes": [
-    {
-      "route": "/Maidfinder",
-      "rewrite": "/Maidfinder.html"
-    }
-  ]
-  
 }
