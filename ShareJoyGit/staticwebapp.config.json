@@ -14,4 +14,12 @@
       "/assets/*"
     ]
   }
+  
+  "routes": [
+    {
+      "route": "/Maidfinder",
+      "rewrite": "/Maidfinder.html"
+    }
+  ]
+  
 }
